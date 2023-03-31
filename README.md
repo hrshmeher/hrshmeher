@@ -1,7 +1,11 @@
+![MasterHead](https://www.aurecongroup.com/-/media/images/aurecon/content/expertise/digital-engineering-advisory/machine-learning/aurecon-machine-learning-large-banner.jpg?w=1170&h=417&as=1&crop=1)
+
 <h1 align="center">Hi 👋, I'm harsha meher</h1>
 <h3 align="center">A aspiring data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshmeher&label=Profile%20views&color=0e75b6&style=flat" alt="hrshmeher" /> </p>
+
+<img align="right" alt="Machine Learning" width="400" src="https://media.discordapp.net/attachments/629537855798247424/809067967228018718/image0.gif">
 
 - 🌱 python **django**
 
