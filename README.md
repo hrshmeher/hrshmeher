@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshmeher&label=Profile%20views&color=0e75b6&style=flat" alt="hrshmeher" /> </p>
 
-- 🌱 python **django**
+- 🌱 working on dsa
 
 - 📫 How to reach me **hrshmeher@gmail.com**
 
