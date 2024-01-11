@@ -1,4 +1,4 @@
-![image](https://github.com/hrshmeher/hrshmeher/assets/113636677/0aa772eb-c8dc-44c0-b2e3-7f9ca3e6c804)[![MasterHead](![image](https://github.com/hrshmeher/hrshmeher/assets/113636677/302f52a2-2c3a-4ad0-9466-f5c7a2e2a03e)
+![image](https://github.com/hrshmeher/hrshmeher/assets/113636677/0aa772eb-c8dc-44c0-b2e3-7f9ca3e6c804)[![MasterHead](https://tenor.com/view/mkaztov-upload-smileyfacefromsololeveling-gif-15104193407465375749)
 )
 <h1 align="center">Hi, I'm harsha meher</h1>
 <h3 align="center">SDE</h3>
